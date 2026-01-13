@@ -1,6 +1,6 @@
 # FoodNest Ordering App
 
-This project was created using React Native with MaterialUI for UI/UX. This project also includes a mock backend server which was created using JSON Server to simulate calls to a server.
+This project was created using React Native with MaterialUI for UI/UX. This project also includes a mock backend server during development which was created using JSON Server to simulate calls to a server. 
 
 ## Available Functions
 
