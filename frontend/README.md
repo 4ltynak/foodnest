@@ -1,10 +1,16 @@
 # FoodNest Ordering App
 
-This project was created using React Native with MaterialUI for UI/UX. This project also includes a mock backend server which was created using JSON Server to simulate calls to a server.
+This project was created using React Native with MaterialUI for UI/UX. This project also includes a mock backend server during development which was created using JSON Server to simulate calls to a server. 
 
-## Available functions
+## Available Functions
 
 This app involves both customer and admin view. Users can switch between these two views using the toggle button at the bottom of the page.
+
+## Notice About Limitations
+
+Currently, the project is using my-json-server as the host for the mock backend server. The version I am using is **read-only**, so while the UI updates locally, the changes do not persist. As such, **only the default items provided are able to be deleted and edits are not saved.**
+
+Similarly, orders sent via the user page is also not reflected in the dashboard.
 
 ### Customers
 
