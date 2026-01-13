@@ -10,6 +10,8 @@ This app involves both customer and admin view. Users can switch between these t
 
 Currently, the project is using my-json-server as the host for the mock backend server. The version I am using is **read-only**, so while the UI updates locally, the changes do not persist. As such, **only the default items provided are able to be deleted and edits are not saved.**
 
+Similarly, orders sent via the user page is also not reflected in the dashboard.
+
 ### Customers
 
 Customers using the app will be able to: 
