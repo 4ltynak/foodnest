@@ -21,7 +21,7 @@ function Users () {
     
     return (
     <>
-    <Grid container sx={{minHeight: "100vh", width: "100%"}}>
+    <Grid container sx={{minHeight: "100vh", width: "100%", display: "flex", justifyContent: "center"}}>
         {/*Cart Floating Button */}
             <Appbar showModalHandler={showModalHandler}/>
             {showModal && <Cart closeModalHandler={closeModalHandler}/>}
