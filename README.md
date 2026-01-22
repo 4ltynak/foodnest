@@ -30,3 +30,6 @@ Admins are able to:
 3. Edit items in the menu.
 4. View orders.
 5. Delete orders.
+
+### Technologies Used: 
+React, MaterialUI, ImgBB API
